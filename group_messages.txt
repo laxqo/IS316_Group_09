@@ -1,3 +1,4 @@
 IS316 - Group 09
 
 Lara: Git helps us keep a history of our project.
+Lama: Git helps us share the project.
